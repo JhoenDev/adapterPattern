@@ -8,7 +8,7 @@ You are developing an application that helps users manage and control various el
 
 ## UML
 
-![image](cpuml.png)
+![image](cpuml.jpg)
 
 
 ## SW Instructions
